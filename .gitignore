@@ -1,2 +1,3 @@
 
-venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/packaging.py
+venv/
+.idea/
